@@ -1,7 +1,3 @@
-
-
-
-
 document.querySelector('#app').innerHTML = `
 <div>
       <textarea id="textArea">
